@@ -5,7 +5,7 @@ import rhino3dm from 'https://cdn.jsdelivr.net/npm/rhino3dm@0.15.0-beta/rhino3dm
 import { RhinoCompute } from 'https://cdn.jsdelivr.net/npm/compute-rhino3d@0.13.0-beta/compute.rhino3d.module.js'
 
 // reference the definition
-const definitionName = 'rnd_node.gh'
+const definitionName = 'rnd_node2.gh'
 
 // listen for slider change events
 const count_slider = document.getElementById( 'count' )
